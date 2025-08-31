@@ -1,10 +1,11 @@
-# 👋 Hi
+# 👋 Hallo
 
 ## Intro
 I'm bendlikeabamboo 🎍 and I mostly deal with data. 
-I'm a data engineer by profession but data analyst by title 😁.
-My projects here are primarily for personal exploration of different technologies and
-how can they solve real world problems.
+I'm a data engineer by profession but data analyst by title 😁 (ING).
+My repos here are mostly exploration of various tech and
+how they can be used to solve real world problems.
+I really love open-source and open-knowledge movements.
 
 ## ⚒️ What I'm currently working on
 - [happybarra](https://github.com/bendlikeabamboo/happybarra)
