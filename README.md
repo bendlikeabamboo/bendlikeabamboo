@@ -43,7 +43,7 @@ data-lake,rdbms,relational,olap,oltp,transactions,analytics,statistics,physics,
 quantum-physics,solid-state-physics,computational-physics,zinc-oxide,zno,data-science,
 visualization,matplotlib,plotly,bokeh,scikitlearn,math,mathematics,clusters,
 computing-clusters,schema,schema-evolution,powerbi,power-bi,big-data,hadoop,hive,
-hiveql,spark,batch-processing,erd,entity-relaltionship-diagram
+hiveql,spark,batch-processing,erd,entity-relaltionship-diagram,mermaid,markdown
 ```
 
 ## 🏓 Hobbies
