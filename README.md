@@ -20,7 +20,7 @@ how can they solve real world problems.
   - superset
  
 ## Stuff I know to some degree (kw-cloud 😝)
-If you're a recruiter with requirements, just Ctrl+F (or Super+F or Cmd+F) here
+Just hit `ctrl + F` (or `super + F` or `cmd + F`)
 ```html
 python,pydantic,pandas,polars,superset,pyspark,yaml,json,csv,utf8,sql,tsql,trino,
 clickhouse,fastapi,streamlit,supabase,docker,kubernetes,stored-procedures,mssql,
@@ -36,7 +36,14 @@ find,hostinger,vps,virtual-machines,virtualbox,oracle-virtualbox,regex,
 regular-expression,airflow,dags,dag,deltalake,delta-lake,adls,adlsgen2,redshift,dbeaver,
 openmetadata,scd,slowly-changing-dimension,html,css,javascript,bootstrap,msword,word,
 docs,google-docs,googledocs,english,tagalog,filipino,mspowerpoint,powerpoint,
-google-slides,slides,azurecli,azure-sql-pools,azure-repos,asana,notion,bash,shell
+google-slides,slides,azurecli,azure-sql-pools,azure-repos,asana,notion,bash,shell,redis,
+superset-api,rapidfuzz,fuzzywuzzy,etl,elt,data-migration,data-integration,
+data-validation,data-delivery,vectorized-pandas,vector-operations,database,datalake,
+data-lake,rdbms,relational,olap,oltp,transactions,analytics,statistics,physics,
+quantum-physics,solid-state-physics,computational-physics,zinc-oxide,zno,data-science,
+visualization,matplotlib,plotly,bokeh,scikitlearn,math,mathematics,clusters,
+computing-clusters,schema,schema-evolution,powerbi,power-bi,big-data,hadoop,hive,
+hiveql,spark,batch-processing
 ```
 
 ## 🏓 Hobbies
@@ -50,7 +57,7 @@ google-slides,slides,azurecli,azure-sql-pools,azure-repos,asana,notion,bash,shel
 - Tech 🧑‍💻
 
 ## Packages I maintain:
-- (barangay)[https://pypi.org/project/barangay/]
+- [barangay](https://pypi.org/project/barangay/)
 
 ## Contact
 hawitsu on discord
