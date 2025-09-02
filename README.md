@@ -1,8 +1,8 @@
 # 👋 Hallo
 
-## Intro
+## 🙋‍♂️ Intro
 I'm bendlikeabamboo 🎍 and I mostly deal with data. 
-I'm a data engineer by profession but data analyst by title 😁 (ING).
+I'm a data engineer by profession but data analyst by title 😔 (ING 🟠🦁).
 My repos here are mostly exploration of various tech and
 how they can be used to solve real world problems.
 I really love open-source and open-knowledge movements.
@@ -20,7 +20,7 @@ I really love open-source and open-knowledge movements.
   - openmetadata
   - superset
  
-## Stuff I know to some degree (kw-cloud 😝)
+## 🤯 Stuff I know to some degree (kw-cloud 😝)
 Just hit `ctrl + F` (or `super + F` or `cmd + F`)
 ```html
 python,pydantic,pandas,polars,superset,pyspark,yaml,json,csv,utf8,sql,tsql,trino,
@@ -52,13 +52,16 @@ hiveql,spark,batch-processing,erd,entity-relaltionship-diagram,mermaid,markdown
 - Gaming
 - Running
 
-## Favorite Conversation Topics
+## 🗣️ Favorite Conversation Topics
 - Roman History 📖
 - Financial Haxx 🤑
 - Tech 🧑‍💻
 
-## Packages I maintain:
+## 📦 Packages I Maintain:
 - [barangay](https://pypi.org/project/barangay/)
+
+## 📈 Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bendlikeabamboo&theme=transparent&show_icons=true)
 
 ## Contact
 hawitsu on discord
