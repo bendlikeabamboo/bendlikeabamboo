@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ Intro
 I'm bendlikeabamboo 🎍 and I mostly deal with data. 
-I'm a platform engineer by profession (but also held data engineer, data analyst titles) 😔 (ING 🟠🦁).
+I'm a platform engineer 🏗️ by profession (but also held data engineer 🪠, data analyst 📊 titles).
 My repos here are mostly exploration of various tech and
 how they can be used to solve real world problems.
 I really love open-source and open-knowledge movements.
