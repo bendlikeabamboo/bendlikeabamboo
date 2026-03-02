@@ -61,8 +61,5 @@ sqlalchemy,clickhouse-sqlalchemy,orm,alembic
 ## 📦 Packages I Maintain:
 - [barangay](https://pypi.org/project/barangay/)
 
-## 📈 Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bendlikeabamboo&theme=transparent&show_icons=true)
-
 ## Contact
 hawitsu on discord
