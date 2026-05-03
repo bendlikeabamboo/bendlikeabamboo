@@ -8,11 +8,8 @@ how they can be used to solve real world problems.
 I really love open-source and open-knowledge movements.
 
 ## ⚒️ What I'm currently working on
-- [happybarra](https://github.com/bendlikeabamboo/happybarra)
-  - FastAPI
-  - Streamlit
-  - Supabase (postgresql)
-  - Docker
+- [pera-to-data](https://pera-to-data.com): Convert Credit Card Statements to CSV
+- [barangay](https://pypi.org/project/barangay/): Updated list of Philippine Administrative Divisions based on PSGC.
 - punan ang patlang ([datalab](https://github.com/bendlikeabamboo/pap-datalab),
   [orchestrator](https://github.com/bendlikeabamboo/pap-orchestrator))
   - Docker
