@@ -1,24 +1,11 @@
-# 👋 Hallo
+bendlikeabamboo
 
-## 🙋‍♂️ Intro
-I'm bendlikeabamboo 🎍 and I mostly deal with data. 
-I'm a platform engineer 🏗️ by profession (but also held data engineer 🪠, data analyst 📊 titles).
-My repos here are mostly exploration of various tech and
-how they can be used to solve real world problems.
-I really love open-source and open-knowledge movements.
-
-## ⚒️ What I'm currently working on
+## works
 - [pera-to-data](https://pera-to-data.com): Convert Credit Card Statements to CSV
 - [barangay](https://pypi.org/project/barangay/): Updated list of Philippine Administrative Divisions based on PSGC.
-- punan ang patlang ([datalab](https://github.com/bendlikeabamboo/pap-datalab),
-  [orchestrator](https://github.com/bendlikeabamboo/pap-orchestrator))
-  - Docker
-  - clickhouse
-  - openmetadata
-  - superset
+- [barangay-boundaries-repository](https://github.com/bendlikeabamboo/barangay-boundaries-repository): Philippine GeoJSON & RDF
  
-## 🤯 Stuff I know to some degree (kw-cloud 😝)
-Just hit `ctrl + F` (or `super + F` or `cmd + F`)
+## skills
 ```html
 python,pydantic,pandas,polars,superset,pyspark,yaml,json,csv,utf8,sql,tsql,trino,
 clickhouse,fastapi,streamlit,supabase,docker,kubernetes,stored-procedures,mssql,
@@ -42,21 +29,24 @@ quantum-physics,solid-state-physics,computational-physics,zinc-oxide,zno,data-sc
 visualization,matplotlib,plotly,bokeh,scikitlearn,math,mathematics,clusters,
 computing-clusters,schema,schema-evolution,powerbi,power-bi,big-data,hadoop,hive,
 hiveql,spark,batch-processing,erd,entity-relaltionship-diagram,mermaid,markdown
-sqlalchemy,clickhouse-sqlalchemy,orm,alembic
+sqlalchemy,clickhouse-sqlalchemy,orm,alembic,marimo,pydantic,kilocode,glm,ai,copilot,
+claude,terraform,platform-engineering,data-engineering,azure-functions,azure-webapps,
+lineage,openclaw,shadcn,shell,bash,zsh,dbt,sqlfluff,sqlglot,vercel-ai-sdk,uv,github-actions,
+github-runners,agents-md,agentic-workflow,opencode,z-code,cursor
 ```
 
-## 🏓 Hobbies
+## hobbies
 - Cocktail Mixing
 - Gaming
 - Running
 
-## 🗣️ Favorite Conversation Topics
-- Roman History 📖
-- Financial Haxx 🤑
-- Tech 🧑‍💻
+## topics
+- roman history
+- 1492 papal conclave
+- solution architecture (for actual problems)
 
-## 📦 Packages I Maintain:
+## packages:
 - [barangay](https://pypi.org/project/barangay/)
 
-## Contact
+## contact
 hawitsu on discord
