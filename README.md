@@ -37,9 +37,9 @@ nt,n-triples,jsonld
 ```
 
 ## hobbies
-- Cocktail Mixing
-- Gaming
-- Running
+- cocktail mixing (margarita, gold rush, last word)
+- gaming (clair obscur: expedition 33, cyberpunk)
+- running
 
 ## topics
 - roman history
