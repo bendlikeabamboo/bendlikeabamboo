@@ -1,9 +1,9 @@
 bendlikeabamboo
 
 ## works
-- [pera-to-data](https://pera-to-data.com): Convert Credit Card Statements to CSV
-- [barangay](https://pypi.org/project/barangay/): Updated list of Philippine Administrative Divisions based on PSGC.
-- [barangay-boundaries-repository](https://github.com/bendlikeabamboo/barangay-boundaries-repository): Philippine GeoJSON & RDF
+- [pera-to-data](https://pera-to-data.com): convert credit card statements to csv
+- [barangay](https://pypi.org/project/barangay/): updated list of philippine administrative hierarchy based on psgc
+- [barangay-boundaries-repository](https://github.com/bendlikeabamboo/barangay-boundaries-repository): philippine polygons (geojson format) and resource description framework (ttl, jsonld, nt formats)
  
 ## skills
 ```html
@@ -32,7 +32,8 @@ hiveql,spark,batch-processing,erd,entity-relaltionship-diagram,mermaid,markdown
 sqlalchemy,clickhouse-sqlalchemy,orm,alembic,marimo,pydantic,kilocode,glm,ai,copilot,
 claude,terraform,platform-engineering,data-engineering,azure-functions,azure-webapps,
 lineage,openclaw,shadcn,shell,bash,zsh,dbt,sqlfluff,sqlglot,vercel-ai-sdk,uv,github-actions,
-github-runners,agents-md,agentic-workflow,opencode,z-code,cursor
+github-runners,agents-md,agentic-workflow,opencode,z-code,cursor,rdf,ttl,turtle,
+nt,n-triples,jsonld
 ```
 
 ## hobbies
