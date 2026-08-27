@@ -5,7 +5,8 @@ bendlikeabamboo
 - [barangay](https://pypi.org/project/barangay/): updated list of philippine administrative hierarchy based on psgc
 - [barangay-boundaries-repository](https://github.com/bendlikeabamboo/barangay-boundaries-repository): philippine polygons (geojson format) and resource description framework (ttl, jsonld, nt formats)
  
-## skills
+## skills 
+> CTRL + F
 ```html
 python,pydantic,pandas,polars,superset,pyspark,yaml,json,csv,utf8,sql,tsql,trino,
 clickhouse,fastapi,streamlit,supabase,docker,kubernetes,stored-procedures,mssql,
@@ -33,7 +34,8 @@ sqlalchemy,clickhouse-sqlalchemy,orm,alembic,marimo,pydantic,kilocode,glm,ai,cop
 claude,terraform,platform-engineering,data-engineering,azure-functions,azure-webapps,
 lineage,openclaw,shadcn,shell,bash,zsh,dbt,sqlfluff,sqlglot,vercel-ai-sdk,uv,github-actions,
 github-runners,agents-md,agentic-workflow,opencode,z-code,cursor,rdf,ttl,turtle,
-nt,n-triples,jsonld
+nt,n-triples,jsonld,spec-kit,speckit,databricks,azure-functions,function-apps,
+serverless,asynchronous-programming,
 ```
 
 ## hobbies
