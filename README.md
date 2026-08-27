@@ -48,6 +48,11 @@ serverless,asynchronous-programming,
 - 1492 papal conclave
 - solution architecture (for actual problems)
 
+## books
+- percy jackson (o + hoo) by rick riordan
+- mathematical physics by mary boas
+- designing data intensive applications by kleppmann
+
 ## packages:
 - [barangay](https://pypi.org/project/barangay/)
 
