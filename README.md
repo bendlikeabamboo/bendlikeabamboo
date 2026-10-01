@@ -35,7 +35,9 @@ claude,terraform,platform-engineering,data-engineering,azure-functions,azure-web
 lineage,openclaw,shadcn,shell,bash,zsh,dbt,sqlfluff,sqlglot,vercel-ai-sdk,uv,github-actions,
 github-runners,agents-md,agentic-workflow,opencode,z-code,cursor,rdf,ttl,turtle,
 nt,n-triples,jsonld,spec-kit,speckit,databricks,azure-functions,function-apps,
-serverless,asynchronous-programming,
+serverless,asynchronous-programming,ansible,cloudflare-r2,vibe-coding,spec-driven-development,
+sdd,opencode,jev,openclaw,zeroclaw,servers,wireguard,certifi,lets-encrypt,traefik,
+https,443,80,51820,httpx,asyncio
 ```
 
 ## roadmap
