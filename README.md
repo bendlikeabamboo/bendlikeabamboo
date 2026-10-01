@@ -40,16 +40,19 @@ serverless,asynchronous-programming,
 
 ## roadmap
 ### capability extension allowed (vibe-codable)
-- fake-data-emitter
-- jinja2-dojo
-- neovim-dojo
-- rust-dojo
+- [ ] fake-data-emitter
+ - [ ] realtime
+ - [ ] batch
+ - [ ] microbatch
+- [ ] jinja2-dojo
+- [ ] neovim-dojo
+- [ ] rust-dojo
 ### core skills (100% human)
-- gusaling-papel
-- spinnable kubernetes cluster (1 mom, 3 ducks)
-- datafusion
-- ballista
-- writing
+- [ ] gusaling-papel
+- [ ] spinnable kubernetes cluster (1 mom, 3 ducks)
+- [ ] datafusion
+- [ ] ballista
+- [ ] writing
 
 ## hobbies
 - cocktail mixing (margarita, gold rush, last word)
