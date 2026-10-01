@@ -41,9 +41,9 @@ serverless,asynchronous-programming,
 ## roadmap
 ### capability extension allowed (vibe-codable)
 - [ ] fake-data-emitter
- - [ ] realtime
- - [ ] batch
- - [ ] microbatch
+    - [ ] realtime
+    - [ ] batch
+    - [ ] microbatch
 - [ ] jinja2-dojo
 - [ ] neovim-dojo
 - [ ] rust-dojo
