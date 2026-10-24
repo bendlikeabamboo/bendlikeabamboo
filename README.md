@@ -4,6 +4,7 @@ bendlikeabamboo
 - [pera-to-data](https://pera-to-data.com): convert credit card statements to csv
 - [barangay](https://pypi.org/project/barangay/): updated list of philippine administrative hierarchy based on psgc
 - [barangay-boundaries-repository](https://github.com/bendlikeabamboo/barangay-boundaries-repository): philippine polygons (geojson format) and resource description framework (ttl, jsonld, nt formats)
+- [jinja2-dojo](https://bendlikeabamboo.github.io/jinja2-dojo/): practice your jinja2 skills
  
 ## skills 
 > CTRL + F
