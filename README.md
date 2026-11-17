@@ -6,11 +6,11 @@ bendlikeabamboo
     - [ ] realtime
     - [ ] batch
     - [ ] microbatch
-- [ ] jinja2-dojo
+- [X] jinja2-dojo
 - [ ] neovim-dojo
 - [ ] rust-dojo
 ### core skills (100% human)
-- [ ] gusaling-papel
+- [X] gusaling-papel
 - [ ] spinnable kubernetes cluster (1 mom, 3 ducks)
 - [ ] datafusion
 - [ ] ballista
